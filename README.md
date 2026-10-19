@@ -20,4 +20,4 @@ Open the Dash URL printed in the terminal (usually http://127.0.0.1:8050).
 Run from this folder. Generated files go in `data/`, `outputs/`, and `maps/`
 
 ## Important interpretation
-The historical course dataset has a limited number of launches and features. Model scores are calculated at runtime and can vary with dataset version and train/test split. Do not paste invented metrics into the slides.
+The historical course dataset has a limited number of launches and features. Model scores are calculated at runtime and can vary with dataset version and train/test split.
